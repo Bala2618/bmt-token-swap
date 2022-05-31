@@ -1,0 +1,238 @@
+.full{
+    
+    background-image: linear-gradient(to bottom right, #1e2d3b,#1e2d3b);
+    /* background-image:  url('../image/gar.png'); */
+    background-position: center;
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    width: 100vw;
+    color: white; 
+    height: 150vh; 
+
+}
+/* .navbar{
+    background-color:#1e2d3b ;
+    
+} */
+.wallet{
+    
+    width: 114px;
+    height: 39px;
+    border-radius: 9px;
+    color: white;
+    font: bolder;
+    border-color: red;
+    background-color:#1e2d3b ;
+    width: 150px;
+    position: absolute;
+    margin-left: 1255px;
+    top: 15px;
+}
+.wel{
+    
+    position: relative;
+    top: 10px;
+}
+
+
+
+.smart{
+    position: relative;
+    color: #c2a363;
+    margin-right: 30px;
+    top: 20px;
+}
+.BUY{
+    color: #000000;
+    
+}
+.line{
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+.eth{
+    border: solid 1px;
+    margin-left: 520px;
+    border-radius: 20px;
+    width: 800px;
+}
+.tp{
+    top: 20px;
+}
+.main {
+     opacity:0.7;
+    height: 60vh;
+    background-color:#303e4b ;
+    border: none;
+    border-radius: 40px;
+    position: relative;
+   margin-right: 10px;
+   bottom: 60px;
+  
+   
+}
+.input1{
+    border: 1px solid whitesmoke;
+    margin: 1em auto 2em; 
+    height: 220px;
+    margin-top: 60px;
+    border-radius: 20px;
+    position: relative;
+    top: 75px;
+   
+    
+}
+.input2{
+    
+    position: relative;
+    top: 20px;
+    background-color: white;
+    width: 280px;
+    height: 55px;
+    border-radius: 20px;
+}
+.input3{
+
+    position: relative;
+    top: 40px;
+    background-color:white ;
+    width: 280px;
+    height: 55px;
+    border-radius: 20px;
+}
+.bnt{
+    background-color:#1990ff ;
+    color: white;
+    border: none;
+    width: 280px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+}
+.eh{
+    position: relative;
+    top: 23px;
+    margin-right: 10px;
+}
+.eh1{
+    position: relative;
+    top:39px;
+    margin-right:10px ;
+}
+.bmt{
+    position: relative;
+    margin-right: 1160px;
+    top: -10px;
+   
+}
+.buy1{
+    position: relative;
+    margin-top: -470px;
+    margin-left: 111px;
+}
+.sbt{
+    background-color: #ece16d;
+    height: 35px; 
+    border: none;
+    border-radius: 4px;
+    position: absolute;
+    top: 60px;
+    margin-left: 106px;
+    width: 200px;
+    margin-top: 10px;
+  
+    
+}
+.trans{
+    color: white;
+}
+.op{
+    opacity: 0.3;
+    position: relative;
+    top: 85px;
+}
+.value{
+    color: white;
+    position: relative;
+    top: 87px;
+    
+}
+.maa{
+    position: relative;
+    margin-left: -80px;
+}
+
+.eee{
+ 
+    position: relative;
+    top: 10px;
+}
+.row1{
+    opacity: 0.5;
+}
+.history{
+    position: relative;
+    margin-left: -80px;
+    top: 10px;
+}
+.row2{
+    border: solid;
+    background-color: #303e4b;
+    border: none;
+    border-radius: 20px;
+    padding-top: 10px;
+    opacity: 0.8;
+}
+.eee{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mm{
+    position: relative;
+    margin-left: -15px;
+}
+.arrow{
+    position: relative;
+    top: 110px;
+    background-color:#ff0046 ;
+    border: none;
+    border-radius: 30px;
+    width: 30px;
+    margin-left: -30px;
+    height: 40px;
+}
+.eth2{
+    position: relative;
+    top: 10px;
+}
+.input4{
+    position: relative;
+    top: 20px;
+    background-color:white ;
+    width: 280px;
+    height: 55px;
+    border-radius: 20px;
+    
+}
+.input5{
+    position: relative;
+    top: 40px;
+    background-color:white ;
+    width: 280px;
+    height: 55px;
+    border-radius: 20px;
+    
+}
+.eh3{
+ 
+    position: relative;
+    top: 23px;
+    margin-right: 18px;
+}
+.eh4
+{
+    position: relative;
+    top: 40px;
+    margin-right: 18px;
+}
